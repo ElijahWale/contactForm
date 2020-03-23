@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1rem;
+    background-color: #ff3366;
+}
+
+.container{
+    margin:  auto;
+    max-width: 50rem;
+    border: 1px solid green;
+    background-color: #fff;
+}
+.contact-form{
+    padding: 1.5rem;
+}
+.form-group{
+    margin-top: .5rem;
+}
+.btn{
+    border: none;
+    border-radius: 5px;  
+}
